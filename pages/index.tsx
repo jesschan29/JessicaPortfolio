@@ -210,7 +210,7 @@ const Home: NextPage = () => {
                                       About Me&nbsp;&nbsp;
                                     </p>
                                     <p className="leading-loose my-3 text-justify text-sm lg:text-xl font-semibold">
-                                      Hey there! I&apos;m Jessica, born in Indonesia and now in my final year of studying BSc (Hons) Information Technology, specifically in Computer Networking and Security at Sunway University.
+                                      Hey there!🎉 I&apos;m Jessica, a passionate and driven individual from Indonesia 🇮🇩. I’ve recently graduated with a Bachelor’s degree in Information Technology, specializing in Computer Networking and Security from Sunway University! 🎓✨ I'm all about exploring the exciting world of tech and ready to dive into new adventures! 🚀💻"
                                     </p>
                                   </div>
                                 </Reveal2>
